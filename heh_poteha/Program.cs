@@ -10,7 +10,7 @@ namespace heh_poteha
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("приве");
         }
     }
 }
